@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonatasv
 - 👀 I'm interested in learning new technologies
 - 🌱 I’m currently learning Python
-- 💞️ I'm looking for a collaborator in a more sustainable world
+- 💞️ I'm I try to collaborate in a more sustainable world
 - 📫 How to reach me Twitter: jho0_
 
 <!---

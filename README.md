@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhonatasv
+- 👋 Hi, I’m jhonatas Viera
 - 👀 I'm interested in learning new technologies
 - 🌱 I’m currently learning Python
 - 💞️ I'm I try to collaborate in a more sustainable world

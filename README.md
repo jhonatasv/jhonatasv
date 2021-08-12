@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jhonatas Viera
-- 👀 I'm interested in learning new technologies
-- 🌱 I’m currently learning Python
+- 👀 I'm interested in learning new technologies                                                                        
+- 🌱 I’m currently learning HTML, CSS, JavaScript E Python
 - 💞️ I'm I try to collaborate in a more sustainable world
 - 📫 How to reach me Twitter: jho0_
 

@@ -6,15 +6,15 @@
 <hr>
 <div align="center">
   <a href="https://github.com/jhonatasv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatasv&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasv&layout=compact&langs_count=7&theme=nord"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=jhonatasv&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasv&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jhon-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img width="99" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> 
+      <img width="85" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> 
+      <img width="75" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=E34F26" alt="Git" /> 
 </div>
   
   ##
@@ -25,3 +25,5 @@
     
  
 </div>
+   
+
